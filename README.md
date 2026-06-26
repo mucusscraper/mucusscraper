@@ -32,9 +32,7 @@ With a background in Biotechnology and scientific computing, I enjoy combining s
 - PySpark
 - dbt
 - PostgreSQL
-- AWS S3
-- AWS Glue
-- AWS Athena
+- AWS Cloud Tools (S3, IAM, Glue, Athena...)
 
 ### Backend & DevOps
 
