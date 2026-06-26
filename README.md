@@ -1,4 +1,8 @@
-<img align="right" width="320" src="https://media.tenor.com/dqIby5rWoD0AAAAM/spongebob-squarepants-bless.gif">
+<img
+  align="right"
+  alt="Coding"
+  width="360"
+  src="https://media.tenor.com/dqIby5rWoD0AAAAM/spongebob-squarepants-bless.gif">
 
 # Hi there! 👋 I'm Daniel Oliveira
 
